@@ -1,5 +1,5 @@
 # **CSS Flexbox Photo Gallery Project**
-#### learned it from [freeCodeCamp](https://www.freecodecamp.org/)
+#### learned it from [freeCodeCamp](https://www.freecodecamp.org/) || See it Live at [CodePen](https://codepen.io/shady-ashraf/pen/LYwoPQR)
 ###### Flexbox helps you design your webpage so that it looks good on any screen size. In this course, you'll use Flexbox to build a responsive photo gallery webpage.
 ---
 ### **Overview**  
